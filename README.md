@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manish2721
-- 👀 I’m interested in cyber security and coding
-- 🌱 I’m currently learning ..cyber security
-- 💞️ I’m looking to collaborate on .projects on cyber attacks
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently learning .. Advanced Data Analytics
+- 💞️ I’m looking to collaborate on .projects on Deep learning and Analytics
 - 📫 How to reach me ... minnunani2121@gmail.com
 - 
 
